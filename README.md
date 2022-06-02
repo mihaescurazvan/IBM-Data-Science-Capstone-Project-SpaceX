@@ -52,6 +52,7 @@ landing.
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, folium, seaborn, sql
+
 **Check the specialization:** [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=B2C&adgroupid=79675709271&device=c&keyword=ibm%20data%20science&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=489197596485&hide_mobile_promo&gclid=CjwKCAjwv-GUBhAzEiwASUMm4r7RmgEdw47TtLkxoXDQwDN9-0BGJq8gz8bESq0N2slU4m3v46c5pBoCV1IQAvD_BwE)
 
 ## Conclusions
