@@ -27,9 +27,9 @@ landing.
       * Interactive Visual Analytics with Folium
       * Machine Learning Prediction
   * Summary of all results
-      ** Exploratory Data Analysis result
-      ** Interactive analytics in screenshots
-      ** Predictive Analytics result
+      * Exploratory Data Analysis result
+      * Interactive analytics in screenshots
+      * Predictive Analytics result
 
 ## Executive Summary
   * Data collection methodology:
