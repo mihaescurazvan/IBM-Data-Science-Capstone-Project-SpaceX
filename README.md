@@ -19,13 +19,13 @@ landing.
 ## Project Summary
 
   * Summary of methodologies
-      ** Data Collection through API
-      ** Data Collection with Web Scraping
-      ** Data Wrangling
-      ** Exploratory Data Analysis with SQL
-      ** Exploratory Data Analysis with Data Visualization
-      ** Interactive Visual Analytics with Folium
-      ** Machine Learning Prediction
+      * Data Collection through API
+      * Data Collection with Web Scraping
+      * Data Wrangling
+      * Exploratory Data Analysis with SQL
+      * Exploratory Data Analysis with Data Visualization
+      * Interactive Visual Analytics with Folium
+      * Machine Learning Prediction
   * Summary of all results
       ** Exploratory Data Analysis result
       ** Interactive analytics in screenshots
@@ -33,13 +33,13 @@ landing.
 
 ## Executive Summary
   * Data collection methodology:
-    ** Data was collected using SpaceX API and web scraping from Wikipedia.
+    * Data was collected using SpaceX API and web scraping from Wikipedia.
   * Perform data wrangling
-    ** One-hot encoding was applied to categorical features
+    * One-hot encoding was applied to categorical features
   * Perform exploratory data analysis (EDA) using visualization and SQL
   * Perform interactive visual analytics using Folium 
   * Perform predictive analysis using classification models
-    ** How to build, tune, evaluate classification models
+    * How to build, tune, evaluate classification models
   
 ## Training models 
 
